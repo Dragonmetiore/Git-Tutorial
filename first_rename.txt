@@ -4,3 +4,4 @@ change 2-> Change by me
 change 3-> git diff
 change 4-> change for diff 
 change 5-> skipping change
+change 6-> unstage the file

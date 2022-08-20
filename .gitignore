@@ -4,3 +4,4 @@ error.log
 static/dir
 DB.pptx
 /MyMatplotlib
+The file doesn't restore after the file in staged area
